@@ -7,7 +7,7 @@ title: Neumorphism
 description: Gilbert Parreño
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/gilbertparreno.github.io"
+baseurl: "gilbertparreno.github.io"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
